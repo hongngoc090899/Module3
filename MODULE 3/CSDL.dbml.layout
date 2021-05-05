@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 14, 11.25" name="CSDL">
+  <DataContextMoniker Name="/CSDLDataContext" />
+  <nestedChildShapes>
+    <classShape Id="b59f370c-1007-4f10-bf86-78348efd82f0" absoluteBounds="6.25, 5.25, 2, 2.5401025390625005">
+      <DataClassMoniker Name="/CSDLDataContext/User" />
+      <nestedChildShapes>
+        <elementListCompartment Id="e08d09ea-7d63-4a98-9809-326ad7b9ae35" absoluteBounds="6.265, 5.71, 1.9700000000000002, 1.9801025390625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="93147d8f-22a5-4f97-8dc0-7c15b6dd075b" absoluteBounds="11.75, 3.25, 2, 3.1170068359375005">
+      <DataClassMoniker Name="/CSDLDataContext/Ticket" />
+      <nestedChildShapes>
+        <elementListCompartment Id="ace24ca1-4a77-435e-ae9e-0a34686a49e9" absoluteBounds="11.765, 3.71, 1.9700000000000002, 2.5570068359375" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="3313536e-3ff2-479b-951d-b5b450550180" absoluteBounds="9, 1.75, 2, 2.347801106770834">
+      <DataClassMoniker Name="/CSDLDataContext/Schedule" />
+      <nestedChildShapes>
+        <elementListCompartment Id="a429230f-e4d7-46da-8955-e1839fdb84ec" absoluteBounds="9.015, 2.21, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="337a28ab-b58c-4e6f-9fa5-310ad81cfcd9" absoluteBounds="6.25, 2.125, 2, 1.7708968098958327">
+      <DataClassMoniker Name="/CSDLDataContext/Route" />
+      <nestedChildShapes>
+        <elementListCompartment Id="3ecd235c-d80a-4951-81f6-7a62aec7c0e4" absoluteBounds="6.265, 2.585, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="e03ce38c-a7e7-48fc-9be7-78500892ac73" absoluteBounds="3.5, 7.875, 2, 1.1939925130208344">
+      <DataClassMoniker Name="/CSDLDataContext/Role" />
+      <nestedChildShapes>
+        <elementListCompartment Id="34bdb4e2-804a-4638-aab0-d81c51ca1b40" absoluteBounds="3.515, 8.335, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="941cdc0d-6cc5-4baf-a301-5ac2e5dad514" absoluteBounds="3.5, 4.625, 2, 1.7708968098958327">
+      <DataClassMoniker Name="/CSDLDataContext/Office" />
+      <nestedChildShapes>
+        <elementListCompartment Id="d471e700-3392-43b1-bdfb-52884162edf7" absoluteBounds="3.515, 5.085, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="1ab4e773-5f4d-4d32-a579-fa68b597c350" absoluteBounds="0.75, 3.625, 2, 1.1939925130208331">
+      <DataClassMoniker Name="/CSDLDataContext/Country" />
+      <nestedChildShapes>
+        <elementListCompartment Id="2584a3c1-2557-47b0-a493-497940f29f93" absoluteBounds="0.765, 4.085, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="bf2e2de3-d92b-4d01-9861-070c2426fea0" absoluteBounds="9, 5.25, 2, 1.1939925130208344">
+      <DataClassMoniker Name="/CSDLDataContext/CabinType" />
+      <nestedChildShapes>
+        <elementListCompartment Id="e446ac7d-a624-403b-ad06-0528a6bf46b3" absoluteBounds="9.015, 5.71, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="d85bf305-be58-4eff-9542-5f350eacef46" absoluteBounds="3.5, 2.25, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/CSDLDataContext/Airport" />
+      <nestedChildShapes>
+        <elementListCompartment Id="ced3ed67-addc-4d22-bdfb-4be8e38a7a9b" absoluteBounds="3.515, 2.71, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="1e11cc2e-5dbc-4c25-841b-e5665849a15f" absoluteBounds="6.25, 9, 2, 1.9631982421874987">
+      <DataClassMoniker Name="/CSDLDataContext/Aircraft" />
+      <nestedChildShapes>
+        <elementListCompartment Id="91a126ed-35bf-40a2-a5cb-5144085cfe17" absoluteBounds="6.265, 9.46, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(8.25 : 7.14829752604167); (8.54166666666667 : 7.14829752604167 : JumpStart); (8.70833333333333 : 7.14829752604167 : JumpEnd); (12.75 : 7.14829752604167); (12.75 : 6.3670068359375)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/CSDLDataContext/User/User_Ticket" />
+      <nodes>
+        <classShapeMoniker Id="b59f370c-1007-4f10-bf86-78348efd82f0" />
+        <classShapeMoniker Id="93147d8f-22a5-4f97-8dc0-7c15b6dd075b" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(11 : 3.67390055338542); (11.75 : 3.67390055338542)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/CSDLDataContext/Schedule/Schedule_Ticket" />
+      <nodes>
+        <classShapeMoniker Id="3313536e-3ff2-479b-951d-b5b450550180" />
+        <classShapeMoniker Id="93147d8f-22a5-4f97-8dc0-7c15b6dd075b" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.25 : 3.01044840494792); (8.54166666666667 : 3.01044840494792 : JumpStart); (8.70833333333333 : 3.01044840494792 : JumpEnd); (9 : 3.01044840494792)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/CSDLDataContext/Route/Route_Schedule" />
+      <nodes>
+        <classShapeMoniker Id="337a28ab-b58c-4e6f-9fa5-310ad81cfcd9" />
+        <classShapeMoniker Id="3313536e-3ff2-479b-951d-b5b450550180" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 7.875); (5.875 : 7.5); (5.875 : 8.1651025390625); (6.25 : 7.7901025390625)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/CSDLDataContext/Role/Role_User" />
+      <nodes>
+        <classShapeMoniker Id="e03ce38c-a7e7-48fc-9be7-78500892ac73" />
+        <classShapeMoniker Id="b59f370c-1007-4f10-bf86-78348efd82f0" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 5.82294840494792); (6.25 : 5.82294840494792)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/CSDLDataContext/Office/Office_User" />
+      <nodes>
+        <classShapeMoniker Id="941cdc0d-6cc5-4baf-a301-5ac2e5dad514" />
+        <classShapeMoniker Id="b59f370c-1007-4f10-bf86-78348efd82f0" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(1.75 : 4.81899251302083); (1.75 : 5.60744516145833); (3.5 : 5.60744516145833)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/CSDLDataContext/Country/Country_Office" />
+      <nodes>
+        <classShapeMoniker Id="1ab4e773-5f4d-4d32-a579-fa68b597c350" />
+        <classShapeMoniker Id="941cdc0d-6cc5-4baf-a301-5ac2e5dad514" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(11 : 5.80850341796875); (11.75 : 5.80850341796875)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/CSDLDataContext/CabinType/CabinType_Ticket" />
+      <nodes>
+        <classShapeMoniker Id="bf2e2de3-d92b-4d01-9861-070c2426fea0" />
+        <classShapeMoniker Id="93147d8f-22a5-4f97-8dc0-7c15b6dd075b" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 3.03929768880208); (6.25 : 3.03929768880208)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/CSDLDataContext/Airport/Airport_Route" />
+      <nodes>
+        <classShapeMoniker Id="d85bf305-be58-4eff-9542-5f350eacef46" />
+        <classShapeMoniker Id="337a28ab-b58c-4e6f-9fa5-310ad81cfcd9" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 2.58214884440104); (6.25 : 2.58214884440104)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/CSDLDataContext/Airport/Airport_Route1" />
+      <nodes>
+        <classShapeMoniker Id="d85bf305-be58-4eff-9542-5f350eacef46" />
+        <classShapeMoniker Id="337a28ab-b58c-4e6f-9fa5-310ad81cfcd9" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(1.75 : 3.625); (1.75 : 2.9374995); (3.5 : 2.9374995)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/CSDLDataContext/Country/Country_Airport" />
+      <nodes>
+        <classShapeMoniker Id="1ab4e773-5f4d-4d32-a579-fa68b597c350" />
+        <classShapeMoniker Id="d85bf305-be58-4eff-9542-5f350eacef46" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.25 : 9); (8.625 : 8.625); (8.625 : 2.34897220247396); (9 : 2.34897220247396)]" fixedFrom="NotFixed" fixedTo="Algorithm">
+      <AssociationMoniker Name="/CSDLDataContext/Aircraft/Aircraft_Schedule" />
+      <nodes>
+        <classShapeMoniker Id="1e11cc2e-5dbc-4c25-841b-e5665849a15f" />
+        <classShapeMoniker Id="3313536e-3ff2-479b-951d-b5b450550180" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

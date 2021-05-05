@@ -1,0 +1,24 @@
+E:\Kì 7\C#\BTL\Module 3\NguyenThiHongNgoc_2017604793\MODULE 3\MODULE 3\bin\Debug\MODULE 3.exe.config
+E:\Kì 7\C#\BTL\Module 3\NguyenThiHongNgoc_2017604793\MODULE 3\MODULE 3\bin\Debug\MODULE 3.exe
+E:\Kì 7\C#\BTL\Module 3\NguyenThiHongNgoc_2017604793\MODULE 3\MODULE 3\bin\Debug\MODULE 3.pdb
+E:\Kì 7\C#\BTL\Module 3\NguyenThiHongNgoc_2017604793\MODULE 3\MODULE 3\obj\Debug\MODULE 3.csprojAssemblyReference.cache
+E:\Kì 7\C#\BTL\Module 3\NguyenThiHongNgoc_2017604793\MODULE 3\MODULE 3\obj\Debug\MODULE_3.Form1.resources
+E:\Kì 7\C#\BTL\Module 3\NguyenThiHongNgoc_2017604793\MODULE 3\MODULE 3\obj\Debug\MODULE_3.Form2.resources
+E:\Kì 7\C#\BTL\Module 3\NguyenThiHongNgoc_2017604793\MODULE 3\MODULE 3\obj\Debug\MODULE_3.Form3.resources
+E:\Kì 7\C#\BTL\Module 3\NguyenThiHongNgoc_2017604793\MODULE 3\MODULE 3\obj\Debug\MODULE_3.Properties.Resources.resources
+E:\Kì 7\C#\BTL\Module 3\NguyenThiHongNgoc_2017604793\MODULE 3\MODULE 3\obj\Debug\MODULE 3.csproj.GenerateResource.cache
+E:\Kì 7\C#\BTL\Module 3\NguyenThiHongNgoc_2017604793\MODULE 3\MODULE 3\obj\Debug\MODULE 3.csproj.CoreCompileInputs.cache
+E:\Kì 7\C#\BTL\Module 3\NguyenThiHongNgoc_2017604793\MODULE 3\MODULE 3\obj\Debug\MODULE 3.exe
+E:\Kì 7\C#\BTL\Module 3\NguyenThiHongNgoc_2017604793\MODULE 3\MODULE 3\obj\Debug\MODULE 3.pdb
+E:\Kì 7\C#\BTL\NguyenThiHongNgoc_2017604793\NguyenThiHongNgoc_2017604793_Module3\MODULE 3\bin\Debug\MODULE 3.exe.config
+E:\Kì 7\C#\BTL\NguyenThiHongNgoc_2017604793\NguyenThiHongNgoc_2017604793_Module3\MODULE 3\bin\Debug\MODULE 3.exe
+E:\Kì 7\C#\BTL\NguyenThiHongNgoc_2017604793\NguyenThiHongNgoc_2017604793_Module3\MODULE 3\bin\Debug\MODULE 3.pdb
+E:\Kì 7\C#\BTL\NguyenThiHongNgoc_2017604793\NguyenThiHongNgoc_2017604793_Module3\MODULE 3\obj\Debug\MODULE 3.csprojAssemblyReference.cache
+E:\Kì 7\C#\BTL\NguyenThiHongNgoc_2017604793\NguyenThiHongNgoc_2017604793_Module3\MODULE 3\obj\Debug\MODULE_3.Form1.resources
+E:\Kì 7\C#\BTL\NguyenThiHongNgoc_2017604793\NguyenThiHongNgoc_2017604793_Module3\MODULE 3\obj\Debug\MODULE_3.Form2.resources
+E:\Kì 7\C#\BTL\NguyenThiHongNgoc_2017604793\NguyenThiHongNgoc_2017604793_Module3\MODULE 3\obj\Debug\MODULE_3.Form3.resources
+E:\Kì 7\C#\BTL\NguyenThiHongNgoc_2017604793\NguyenThiHongNgoc_2017604793_Module3\MODULE 3\obj\Debug\MODULE_3.Properties.Resources.resources
+E:\Kì 7\C#\BTL\NguyenThiHongNgoc_2017604793\NguyenThiHongNgoc_2017604793_Module3\MODULE 3\obj\Debug\MODULE 3.csproj.GenerateResource.cache
+E:\Kì 7\C#\BTL\NguyenThiHongNgoc_2017604793\NguyenThiHongNgoc_2017604793_Module3\MODULE 3\obj\Debug\MODULE 3.csproj.CoreCompileInputs.cache
+E:\Kì 7\C#\BTL\NguyenThiHongNgoc_2017604793\NguyenThiHongNgoc_2017604793_Module3\MODULE 3\obj\Debug\MODULE 3.exe
+E:\Kì 7\C#\BTL\NguyenThiHongNgoc_2017604793\NguyenThiHongNgoc_2017604793_Module3\MODULE 3\obj\Debug\MODULE 3.pdb
